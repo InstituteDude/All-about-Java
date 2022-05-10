@@ -4,7 +4,7 @@ public class ifElse1{
     //tutorial for statement if else
 
   int info= 10;
-  System.out.println("<> Hasilnya >> "+info);
+  System.out.println("<> The results >> "+info);
  if(info == 10){
   System.out.println("<> >>Thats right ma man/true<<");
  } else{

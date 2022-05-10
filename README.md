@@ -1,2 +1,2 @@
 # All about Java
-hope you guys enjoyed :)
+This is My first repository on github
